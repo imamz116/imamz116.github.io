@@ -1,11 +1,15 @@
 /* Commenting my code*/
+
 img {
 
-  width: 9000px;
+  width: 500px;
 
 }
 
 body {
+  
+  font-family:"French Script";
+  
   color:white;
   
   background-color: black;
